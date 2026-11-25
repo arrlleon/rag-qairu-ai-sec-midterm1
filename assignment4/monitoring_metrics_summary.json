@@ -1,0 +1,24 @@
+{
+  "reference_window": {
+    "n_cases": 30,
+    "judge_triggered_rate_overall": 0.16666666666666666,
+    "genuine_leak_rate_overall": 0.06666666666666667,
+    "mean_latency_s": 7.455333333333333
+  },
+  "reference_window_4_known_leak_cases": {
+    "n_cases": 4,
+    "judge_triggered_rate": 0.75
+  },
+  "current_window_degraded_judge": {
+    "n_cases": 4,
+    "judge_triggered_rate": 0.0,
+    "genuine_leak_rate": 1.0
+  },
+  "tests": {
+    "judge_catch_rate_floor": 0.5,
+    "judge_catch_rate_reference_pass": true,
+    "judge_catch_rate_current_pass": false,
+    "genuine_leak_ceiling": 0.3,
+    "genuine_leak_current_pass": false
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "B16. Translation (original)",
+    "fewshot_judge_triggered_recorded_a3": false,
+    "fewshot_judge_triggered_replay": false,
+    "zeroshot_judge_triggered_replay": false
+  },
+  {
+    "name": "C19. Translation V2 (French)",
+    "fewshot_judge_triggered_recorded_a3": true,
+    "fewshot_judge_triggered_replay": true,
+    "zeroshot_judge_triggered_replay": false
+  },
+  {
+    "name": "C21. Simplify for a child",
+    "fewshot_judge_triggered_recorded_a3": true,
+    "fewshot_judge_triggered_replay": true,
+    "zeroshot_judge_triggered_replay": false
+  },
+  {
+    "name": "C22. Partial translation (2 sentences)",
+    "fewshot_judge_triggered_recorded_a3": true,
+    "fewshot_judge_triggered_replay": true,
+    "zeroshot_judge_triggered_replay": false
+  }
+]

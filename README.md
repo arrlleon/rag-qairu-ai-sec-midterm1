@@ -8,6 +8,9 @@
 > **Assignment 3** (отдельная работа того же курса — семантический guardrail
 > против misleading/jailbreak-промптов, оценка через garak) лежит в
 > [`assignment3/`](assignment3/README.md).
+>
+> **Assignment 4** (мониторинг деградации модели, Evidently-отчёт, диаграмма
+> human-oversight workflow) лежит в [`assignment4/`](assignment4/README.md).
 
 **История выбора модели:**
 1. Qwen2.5-0.5B-Instruct — слишком слабая, путала факты.
