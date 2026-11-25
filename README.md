@@ -5,6 +5,10 @@
 таксономии из статьи HackAPrompt (Schulhoff et al., 2023), плюс собственное
 улучшение защиты (output-фильтр) с честной оценкой до/после.
 
+> **Assignment 3** (отдельная работа того же курса — семантический guardrail
+> против misleading/jailbreak-промптов, оценка через garak) лежит в
+> [`assignment3/`](assignment3/README.md).
+
 **История выбора модели:**
 1. Qwen2.5-0.5B-Instruct — слишком слабая, путала факты.
 2. Qwen2.5-3B-Instruct в fp16 через PyTorch + Apple Metal (`mps`) — умнее, но
